@@ -1,12 +1,11 @@
 # tpot
 
 ```
-contraseña usuario consola (aaa):
-cangetin
+relaxedwife login: tsec
+password: cangetin
 ```
 
 ```
-usuario web:
-luis
-contraseña: m******
+web user: luis
+password: m******
 ```
