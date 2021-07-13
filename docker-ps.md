@@ -1,3 +1,5 @@
+## docker ps
+
 ```
 [tsec@relaxedwife:~]$ sudo docker ps
 CONTAINER ID        IMAGE                            COMMAND                  CREATED             STATUS                            PORTS                                                                                                                                                                                                                                                                                                                  NAMES
