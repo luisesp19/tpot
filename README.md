@@ -15,15 +15,15 @@ password: m******
 ```
 
 ```
+Virtualbox Core
 IP: 10.164.1.225 (212.166.132.197)
 SSH: ssh -l tsec -p 64295 10.164.1.225
-WEB: http://10.164.1.225:64297 (no seguro)
-ADMIN: http://10.164.1.225:64294 (no seguro)
-```
+WEB: https://10.164.1.225:64297
+ADMIN: https://10.164.1.225:64294
 
-```
-IP: 172.17.0.1 (212.166.132.197)
-SSH: ssh -l tsec -p 64295 172.17.0.1
-WEB: http://172.17.0.1:64297 (no seguro)
-ADMIN: http://172.17.0.1:64294 (no seguro)
+Parallels
+IP: 10.211.55.41 (212.166.132.197)
+SSH: ssh -l tsec -p 64295 10.211.55.41
+WEB: https://10.211.55.41:64297
+ADMIN: https://10.211.55.41:64294
 ```
