@@ -39,3 +39,30 @@ SSH: ssh -l tsec -p 64295 10.211.55.6
 WEB: https://10.211.55.6:64297
 ADMIN: https://10.211.55.6:64294
 ```
+
+```
+luis
+juan
+bot
+pepito
+alumno
+forense
+manana
+admin
+root
+adm
+```
+
+```
+1234
+mypass
+Seguridad-1
+contrasena
+empleado
+Cayenne
+abc123
+core
+kiosko
+cangetin
+Tr@1n1ng
+```
