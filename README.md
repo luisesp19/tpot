@@ -2,14 +2,16 @@
 
 ## Enlaces
 
-https://blog.elhacker.net/2021/01/instalar-honeypot-t-pot-en-una-maquina-virtual-tpotce-cowrie-docker-dionea.html
-
 https://github.com/telekom-security/tpotce
 
-## Login
+https://www.elladodelmal.com/2017/07/t-pot-una-colmena-de-honeypots-para.html
+
+https://blog.elhacker.net/2021/01/instalar-honeypot-t-pot-en-una-maquina-virtual-tpotce-cowrie-docker-dionea.html
+
+## Credenciales
 
 ```
-relaxedwife login: tsec
+login: tsec
 password: cangetin
 ```
 
@@ -18,7 +20,7 @@ web user: luis
 password: m******
 ```
 
-## Address
+## Máquina
 
 ```
 IP: 10.164.1.213
