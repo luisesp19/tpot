@@ -55,3 +55,21 @@ kiosko
 cangetin
 Tr@1n1ng
 ```
+
+## Heralding
+
+```
+ftp
+telnet
+ssh
+http
+https
+pop3
+pop3s
+imap
+imaps
+smtp
+vnc
+postgresql
+socks5
+```
