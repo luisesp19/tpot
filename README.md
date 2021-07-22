@@ -58,7 +58,7 @@ Tr@1n1ng
 
 ## Heralding
 
-### ftp
+### ftp
 
 Filezilla
 
