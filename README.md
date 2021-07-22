@@ -20,7 +20,7 @@ web user: luis
 password: m******
 ```
 
-## Máquina
+## Instalación nativa máquina Core
 
 ```
 IP: 10.164.1.213
