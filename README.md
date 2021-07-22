@@ -1,6 +1,13 @@
 # tpot
 
-## Credenciales
+## Instalación nativa en Core
+
+```
+IP: 10.164.1.213
+SSH: ssh -l tsec -p 64295 10.164.1.213
+WEB: https://10.164.1.213:64297
+ADMIN: https://10.164.1.213:64294
+```
 
 ```
 login: tsec
@@ -12,16 +19,7 @@ web user: luis
 password: m******
 ```
 
-## Instalación nativa máquina Core
-
-```
-IP: 10.164.1.213
-SSH: ssh -l tsec -p 64295 10.164.1.213
-WEB: https://10.164.1.213:64297
-ADMIN: https://10.164.1.213:64294
-```
-
-## Usuarios
+## Usuarios de prueba
 
 ```
 luis
@@ -36,7 +34,7 @@ root
 adm
 ```
 
-## Contraseñas
+## Contraseñas de prueba
 
 ```
 1234
@@ -52,7 +50,7 @@ cangetin
 Tr@1n1ng
 ```
 
-## Heralding
+## Heralding honeypot
 
 ### ftp
 
@@ -60,7 +58,7 @@ Filezilla
 
 or
 
-Kali
+from Kali
 
 ```
 ftp
@@ -88,7 +86,7 @@ close
 
 ### telnet
 
-Kali
+from Kali
 
 ```
 open 10.164.1.213
@@ -172,7 +170,7 @@ contrasena
 
 ### postgresql
 
-Kali
+from Kali
 
 ```
 psql -h 10.164.1.213 -U manana
