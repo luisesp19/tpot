@@ -147,9 +147,9 @@ abc123
 
 ```
 openssl s_client -connect 10.164.1.213:993 -crlf
-? LOGIN aaa bbb
-? LOGIN ccc ddd
-? LOGIN eee fff
+? LOGIN juan Tr@1n1ng
+? LOGIN luis kiosko
+? LOGIN adm mypass
 ```
 
 ### vnc
