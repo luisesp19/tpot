@@ -87,14 +87,14 @@ close
 ```
 open 10.164.1.213
 
-aaa
-aaa
+manana
+abc123
 
-aaa
-aaa
+luis
+contrasena
 
-aaa
-aaa
+forense
+Tr@1n1ng
 ```
 
 ### ssh
