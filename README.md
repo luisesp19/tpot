@@ -1,6 +1,6 @@
 # tpot
 
-## Instalación nativa en Core
+## Instalación Core
 
 ```
 IP: 10.164.1.213
