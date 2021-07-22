@@ -158,8 +158,14 @@ openssl s_client -connect 10.164.1.213:993 -crlf
 
 ### vnc
 
+VNC Viewer
+
 ```
-aaa
+10.164.1.213
+
+core
+cangetin
+contrasena
 ```
 
 ### postgresql
