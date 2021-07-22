@@ -186,12 +186,6 @@ psql -h 10.164.1.213 -U luis
 kiosko
 ```
 
-### others
-
-```
-socks5
-```
-
 ## Enlaces
 
 https://github.com/telekom-security/tpotce
