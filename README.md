@@ -151,6 +151,7 @@ pop3s
 imap
 imaps
 smtp
+socks5
 ```
 
 ### vnc
@@ -159,8 +160,18 @@ smtp
 aaa
 ```
 
+### postgresql
 
 ```
-postgresql
-socks5
+psql -h 10.164.1.213 -U manana
+Cayenne
+
+psql -h 10.164.1.213 -U pepito
+empleado
+
+psql -h 10.164.1.213 -U bot
+1234
+
+psql -h 10.164.1.213 -U luis
+kiosko
 ```
