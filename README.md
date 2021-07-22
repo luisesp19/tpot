@@ -143,15 +143,13 @@ adm
 abc123
 ```
 
-### others
+### pop3, pop3s, imap, imaps, smtp
 
 ```
-pop3
-pop3s
-imap
-imaps
-smtp
-socks5
+openssl s_client -connect 10.164.1.213:993 -crlf
+? LOGIN aaa bbb
+? LOGIN ccc ddd
+? LOGIN eee fff
 ```
 
 ### vnc
@@ -174,4 +172,10 @@ psql -h 10.164.1.213 -U bot
 
 psql -h 10.164.1.213 -U luis
 kiosko
+```
+
+### others
+
+```
+socks5
 ```
