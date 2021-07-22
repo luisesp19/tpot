@@ -64,7 +64,15 @@ Tr@1n1ng
 
 ### ftp
 
+Filezilla
+
+or
+
+Kali
+
 ```
+ftp
+
 open 10.164.1.213
 luis
 1234
@@ -87,6 +95,8 @@ close
 ```
 
 ### telnet
+
+Kali
 
 ```
 open 10.164.1.213
@@ -169,6 +179,8 @@ contrasena
 ```
 
 ### postgresql
+
+Kali
 
 ```
 psql -h 10.164.1.213 -U manana
