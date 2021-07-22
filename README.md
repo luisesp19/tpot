@@ -78,7 +78,7 @@ close
 
 open 10.164.1.213
 bot
-core
+empleado
 close
 ```
 
