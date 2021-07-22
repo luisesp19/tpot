@@ -60,7 +60,27 @@ Tr@1n1ng
 
 ### ftp
 
-Filezilla
+```
+open 10.164.1.213
+luis
+1234
+close
+
+open 10.164.1.213
+luis
+mypass
+close
+
+open 10.164.1.213
+juan
+kiosko
+close
+
+open 10.164.1.213
+bot
+core
+close
+```
 
 ### telnet
 
