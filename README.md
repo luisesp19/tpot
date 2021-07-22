@@ -84,7 +84,18 @@ close
 
 ### telnet
 
+```
+open 10.164.1.213
+
 aaa
+aaa
+
+aaa
+aaa
+
+aaa
+aaa
+```
 
 ### ssh
 
