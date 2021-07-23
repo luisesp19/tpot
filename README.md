@@ -12,24 +12,24 @@ Son básicamente señuelos. Son sistemas "trampa" que están ahí para ser el bl
 
 T-pot incluye los siguientes honeypots:
 
-Cada uno tiene un objetivo distinto, en cuanto a que están dedicados a distintos servicios.
+Cada honeypot tiene un objetivo distinto, en cuanto a que levanten distintos servicios.
 
-adbhoney
+adbhoney: android
 ciscoasa
-citrixhoneypot
+citrixhoneypot: citrix
 conpot
 cowrie
 dicompot
 dionaea
-elasticpot
+elasticpot: elasticsearch
 glutton
-heralding
-honeypy
+heralding: ftp, telnet, ssh, http, https, pop3, pop3s, imap, imaps, smtp, vnc, postgresql
+honeypy: Python
 honeysap
-honeytrap
-ipphoney
-mailoney
-medpot
+honeytrap: nmap
+ipphoney: impresora ipp
+mailoney: correo
+medpot: Microsoft RDP (Remote Desktop Protocol)
 rdpy
 snare
 tanner
@@ -38,7 +38,7 @@ T-pot tiene distintos tipos de instalación, algunas más ligeras que otras. He 
 
 heralding es aaa
 
-T-pot además incluye el uso de Elastic Search, un motor de indexación de datos para realizar búsquedas.
+T-pot además incluye el uso de Elastic Search, un motor de indexación de datos para realizar búsquedas. Con el cual recopila toda actividad de intrusion
 
 ## Instalación Core
 
