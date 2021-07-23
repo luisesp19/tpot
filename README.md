@@ -8,11 +8,11 @@ Esta distro está dedicada a ser un contenedor de todos los honeypots existentes
 
 #### ¿Y que son los honeypots?
 
-Son básicamente señuelos. Son sistemas "trampa" que están ahí para ser el blanco de los atacantes y de esa forma distraer o desviar su atención de los verdaderos activos de la organización.
+Son básicamente señuelos. Sistemas "trampa" que están ahí para ser el blanco de atacantes y distraer o desviar la atención de los verdaderos activos de la organización, a la vez que recopilar información de los ataques.
 
 T-pot incluye los siguientes honeypots:
 
-Cada honeypot tiene un objetivo distinto, en cuanto a que levanten distintos servicios.
+Cada uno tiene un objetivo distinto, en cuanto a que levantan distintos servicios.
 
 ```
 adbhoney: android
@@ -25,7 +25,7 @@ dionaea
 elasticpot: elasticsearch
 glutton
 heralding: ftp, telnet, ssh, http, https, pop3, pop3s, imap, imaps, smtp, vnc, postgresql
-honeypy: Python
+honeypy: python
 honeysap
 honeytrap: nmap
 ipphoney: impresora ipp
@@ -36,11 +36,11 @@ snare
 tanner
 ```
 
-T-pot tiene distintos tipos de instalación, algunas más ligeras que otras. He seleccionado una que contiene al menos "heralding".
+T-pot tiene distintos tipos de instalación para seleccionar la que más nos interesa según el tipo de organización.
 
-heralding es aaa
+Yo he seleccionado "Collector" ya que contiene al menos "heralding".
 
-T-pot además incluye el uso de Elastic Search, un motor de indexación de datos para realizar búsquedas. Con el cual recopila toda actividad de intrusion
+T-pot además incluye el uso de Elastic Search, un motor de búsqueda de datos para realizar búsquedas. Con el cual recopila toda actividad de intrusion
 
 ## Instalación Core
 
