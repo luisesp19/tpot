@@ -15,21 +15,21 @@ T-pot incluye los siguientes honeypots:
 Cada uno tiene un objetivo distinto, en cuanto a que levantan distintos servicios. Aunque también hay algunos que son similar o comunes.
 
 ```
-adbhoney: android
+adbhoney: Android
 ciscoasa
-citrixhoneypot: citrix
+citrixhoneypot: Citrix
 conpot
 cowrie
 dicompot
 dionaea
-elasticpot: elasticsearch
+elasticpot: Elasticsearch
 glutton
 heralding: ftp, telnet, ssh, http, https, pop3, pop3s, imap, imaps, smtp, vnc, postgresql
-honeypy: python
+honeypy: Python
 honeysap
-honeytrap: nmap
-ipphoney: impresora ipp
-mailoney: correo
+honeytrap: Nmap
+ipphoney: Impresora IPP
+mailoney: Correo
 medpot: Microsoft RDP (Remote Desktop Protocol)
 rdpy
 snare
