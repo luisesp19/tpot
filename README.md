@@ -8,7 +8,7 @@ Esta distro está dedicada a ser un contenedor de todos los honeypots existentes
 
 #### ¿Y que son los honeypots?
 
-Son básicamente señuelos. Sistemas "trampa" que están ahí para ser el blanco de atacantes y distraer o desviar la atención de los verdaderos activos de la organización, a la vez que recopilar información de los ataques.
+Son señuelos. Sistemas "trampa" que están ahí para ser el blanco de atacantes y distraer o desviar la atención de los verdaderos activos de la organización, a la vez que recopilamos información de la actividad de los atacantes.
 
 T-pot incluye los siguientes honeypots:
 
