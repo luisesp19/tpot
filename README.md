@@ -12,7 +12,7 @@ Son básicamente señuelos. Sistemas "trampa" que están ahí para ser el blanco
 
 T-pot incluye los siguientes honeypots:
 
-Cada uno tiene un objetivo distinto, en cuanto a que levantan distintos servicios.
+Cada uno tiene un objetivo distinto, en cuanto a que levantan distintos servicios. Aunque también hay algunos que son similar o comunes.
 
 ```
 adbhoney: android
@@ -40,7 +40,7 @@ T-pot tiene distintos tipos de instalación para seleccionar la que más nos int
 
 Yo he seleccionado "Collector" ya que contiene al menos "heralding".
 
-T-pot además incluye el uso de Elastic Search, un motor de búsqueda de datos para realizar búsquedas. Con el cual recopila toda actividad de intrusion
+T-pot además utiliza Elastic Search (Un motor de indexación de datos para realizar consultas de búsqueda más rápidas. Muchos servicios de internet lo utilizan para sus buscadores y así aligerar las consultas directas a las bases de datos). Entonces T-pot registra todos los ataques e intentos de intrusión en su base de datos y tira de Elastic Search para presentar los resultados en la interfaz gráfica (Kibana).
 
 ## Instalación Core
 
