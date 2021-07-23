@@ -14,6 +14,7 @@ T-pot incluye los siguientes honeypots:
 
 Cada honeypot tiene un objetivo distinto, en cuanto a que levanten distintos servicios.
 
+```
 adbhoney: android
 ciscoasa
 citrixhoneypot: citrix
@@ -33,6 +34,7 @@ medpot: Microsoft RDP (Remote Desktop Protocol)
 rdpy
 snare
 tanner
+```
 
 T-pot tiene distintos tipos de instalación, algunas más ligeras que otras. He seleccionado una que contiene al menos "heralding".
 
