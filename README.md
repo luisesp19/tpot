@@ -1,5 +1,45 @@
 # tpot
 
+## Intro
+
+T-Pot es una distribución de Linux basada en Debian (Ubuntu, Kali, etc.)
+
+Esta distro está dedicada a ser un contenedor de todos los honeypots existentes, o al menos de los más conocidos.
+
+#### ¿Y que son los honeypots?
+
+Son básicamente señuelos. Son sistemas "trampa" que están ahí para ser el blanco de los atacantes y de esa forma distraer o desviar su atención de los verdaderos activos de la organización.
+
+T-pot incluye los siguientes honeypots:
+
+Cada uno tiene un objetivo distinto, en cuanto a que están dedicados a distintos servicios.
+
+adbhoney
+ciscoasa
+citrixhoneypot
+conpot
+cowrie
+dicompot
+dionaea
+elasticpot
+glutton
+heralding
+honeypy
+honeysap
+honeytrap
+ipphoney
+mailoney
+medpot
+rdpy
+snare
+tanner
+
+T-pot tiene distintos tipos de instalación, algunas más ligeras que otras. He seleccionado una que contiene al menos "heralding".
+
+heralding es aaa
+
+T-pot además incluye el uso de Elastic Search, un motor de indexación de datos para realizar búsquedas.
+
 ## Instalación Core
 
 ```
@@ -193,45 +233,3 @@ https://github.com/telekom-security/tpotce
 https://www.elladodelmal.com/2017/07/t-pot-una-colmena-de-honeypots-para.html
 
 https://blog.elhacker.net/2021/01/instalar-honeypot-t-pot-en-una-maquina-virtual-tpotce-cowrie-docker-dionea.html
-
-# Intro
-
-T-Pot es una distribución de Linux basada en Debian (Ubuntu, Kali, etc.)
-
-Esta distro está dedicada a ser un contenedor de todos los honeypots existentes, o al menos de los más conocidos.
-
-Y que son los honeypots?
-
-Son herramientas preparadas
-
-https://github.com/telekom-security/tpotce
-
-T-pot incluye los siguientes honeypots:
-
-adbhoney,
-ciscoasa,
-citrixhoneypot,
-conpot,
-cowrie,
-dicompot,
-dionaea,
-elasticpot,
-glutton,
-heralding,
-honeypy,
-honeysap,
-honeytrap,
-ipphoney,
-mailoney,
-medpot,
-rdpy,
-snare,
-tanner
-
-Cada honeypot tiene un objetivo, es decir que nos sirven para probar ataques a distintos servicios.
-
-T-pot tiene distintos tipos de instalación, algunas más ligeras que otras. He seleccionado una que contiene al menos "heralding".
-
-heralding es aaa
-
-T-pot además incluye el uso de Elastic Search, un motor de indexación de datos para realizar búsquedas.
